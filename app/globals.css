@@ -1,0 +1,11 @@
+.userData {
+  padding: 0;
+  margin: 0;
+}
+.userData li {
+  list-style: none;
+  border-bottom: 3px solid #eee;
+}
+.userData li a {
+  text-decoration: none;
+}
